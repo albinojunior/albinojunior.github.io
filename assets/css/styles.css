@@ -72,7 +72,7 @@ a.btn:active,
 a.btn:focus {
   outline: none;
   background: #fff;
-  color: #45aca3;
+  color: #4B6A78;
   border-color: #fff;
 }
 .btn-primary {
@@ -125,8 +125,8 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #45aca3;
-  padding-top: 7px;
+  color: #4B6A78;
+  padding-top:10px;
 }
 .social-list a:hover {
   background: #fff;
