@@ -15,7 +15,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   color: #fff;
-  background: #4B6A78;
+  background: #42A8C0;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -72,7 +72,7 @@ a.btn:active,
 a.btn:focus {
   outline: none;
   background: #fff;
-  color: #4B6A78;
+  color: #42A8C0;
   border-color: #fff;
 }
 .btn-primary {
@@ -125,7 +125,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #4B6A78;
+  color: #42A8C0;
   padding-top:10px;
 }
 .social-list a:hover {
