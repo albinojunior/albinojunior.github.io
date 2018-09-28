@@ -10,7 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #545E6C;
+  color: #42A8C0;
   background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
@@ -250,7 +250,7 @@ p {
 }
 .footer .copyright {
   line-height: 1.6;
-  color: #545E6C;
+  color: #42A8C0;
   font-size: 13px;
 }
 .footer .fa-heart {
