@@ -15,6 +15,9 @@ app.controller("PresentationCtrl", function($scope, $http, $timeout) {
     size: "large"
   };
 
+  $scope.isFirstImg = true;
+  $scope.isLastImg = false;
+
   $scope.data = {};
 
   $scope.init = function(title) {
@@ -46,6 +49,11 @@ app.controller("PresentationCtrl", function($scope, $http, $timeout) {
   $scope.setImages = function(images) {
     $scope.images = images ? images : $scope.images;
   };
+
+  $scope.changeIndex = function() {
+    $scope.isFirstImg = $("#imageIndexHide").val() == 1; 
+    $scope.isLastImg = $("#imageIndexHide").val() == $scope.images.length;
+  }
 
   $scope.startLoading();
 });
