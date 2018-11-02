@@ -1,0 +1,15 @@
+{
+    "presentation": {
+        "title": "Gerenciamento de versão: Introdução ao Git",
+        "description": "a escrever",
+        "author": "José Albino Jr.",
+        "link": "git-introduction/index.html",
+        "date": "06/11/2018",
+        "thumbnail_url": "assets/img/git.jpg"
+      },
+    "images": [
+        "git.jpg",
+        "git1.jpg",
+        "git2.jpg"
+    ]
+}
