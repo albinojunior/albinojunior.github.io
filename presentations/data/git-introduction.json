@@ -3,13 +3,19 @@
         "title": "Gerenciamento de versão: Introdução ao Git",
         "description": "a escrever",
         "author": "José Albino Jr.",
-        "link": "git-introduction/index.html",
+        "link": "git-introduction/",
         "date": "06/11/2018",
         "thumbnail_url": "assets/img/git.jpg"
       },
     "images": [
-        "git.jpg",
-        "git1.jpg",
-        "git2.jpg"
+        "Slide1.PNG",
+        "Slide2.PNG",
+        "Slide3.PNG",
+        "Slide4.PNG",
+        "Slide5.PNG",
+        "Slide6.PNG",
+        "Slide7.PNG",
+        "Slide8.PNG",
+        "Slide9.PNG"
     ]
 }
