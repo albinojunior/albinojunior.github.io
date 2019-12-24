@@ -15,7 +15,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   color: #fff;
-  background: #42A8C0;
+  background: #404040;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -125,7 +125,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #42A8C0;
+  color: #404040;
   padding-top:10px;
 }
 .social-list a:hover {
